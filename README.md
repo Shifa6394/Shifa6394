@@ -10,11 +10,10 @@
 ---
 
 ## 💫 About Me
-- 🎓 Completed Graduation in Computer Science  
 - 🎓 Currently pursuing MBA from Chandigarh University  
 - 📊 Also pursuing a professional course in Data Analytics  
-- 🚀 Working on Data Science & Analytics projects  
-- 🌱 Currently learning Machine Learning, Power BI, SQL, Advanced Python  
+- 🚀 Working on Data Science & Analytics  
+- 🌱 Currently learning  Power BI, SQL, Advanced Python, Excel  
 - 💡 Passionate about Data-Driven Insights & Predictive Modeling  
 - 🧠 Curious about AI, Big Data, Cloud, and Visualization  
 - 📢 Reach me at: shifa125arshad@gmail.com  
