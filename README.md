@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,git,github,sql" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,sql,excel" alt="Tech Stack Icons" />
 </p>
 
 ---
