@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil" width="250" alt="Coding GIF" />
+  <img src=(https://tenor.com/view/diegodrawsart-women-and-girls-in-science-day-science-scientist-gif-24767288) width="250" alt="Coding GIF" />
 </p>
 
 ---
