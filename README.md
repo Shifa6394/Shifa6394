@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/diegodrawsart-women-and-girls-in-science-day-science-scientist-gif-24767288" width="250" alt="Coding GIF" />
+  <img src="https://media.tenor.com/fmQ_k3HV0sAAAAAC/text-work-computer-working.gif" width="250" alt="Coding GIF" />
 </p>
 
 ---
