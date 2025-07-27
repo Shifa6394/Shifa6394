@@ -13,17 +13,28 @@
 - 🎓 Currently pursuing MBA from Chandigarh University  
 - 📊 Also pursuing a professional course in Data Analytics  
 - 🚀 Working on Data Science & Analytics  
-- 🌱 Currently learning  Power BI, SQL, Advanced Python, Excel  
+- 🌱 Currently learning Power BI, SQL, Advanced Python, Excel  
 - 💡 Passionate about Data-Driven Insights & Predictive Modeling  
 - 🧠 Curious about AI, Big Data, Cloud, and Visualization  
-- 📢 Reach me at: shifa125arshad@gmail.com  
-- 🌍 Based in Uttar Pradesh, India  
+- 📢 Reach me at: **shifa125arshad@gmail.com**  
+- 🌍 Based in **Uttar Pradesh, India**  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,sql,excel" alt="Tech Stack Icons" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -64,6 +75,17 @@
   <a href="mailto:shifa125arshad@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Shifa6394"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shifa6394&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Shifa6394.visitor-badge" alt="Visitor Map" />
+</p>
+
 
 ---
 
