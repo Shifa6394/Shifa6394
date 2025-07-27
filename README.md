@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/fmQ_k3HV0sAAAAAC/text-work-computer-working.gif" width="250" alt="Coding GIF" />
+  <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAd/new-game-ahagon-umiko-programming.gif" width="250" alt="Coding GIF" />
 </p>
 
 ---
@@ -74,3 +74,4 @@
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Shifa6394.visitor-badge" alt="Visitor Map" />
 </p>
+
